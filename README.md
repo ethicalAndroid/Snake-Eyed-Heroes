@@ -3,6 +3,7 @@
 Have you ever played a TTRPG and thought: "My characters are just too strong!"  
 Well, Snake-Eyed Heroes goes below 1st level, because you play 0th level characters.  
 Each player controls 3-4 heroes as they all face a life-or-death scenario.
+It is a very loose game that deals with Challenges and Outcomes.
 
 ## [See how to Create Characters.](Character-Creation.md)
 
