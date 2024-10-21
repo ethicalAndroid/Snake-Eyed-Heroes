@@ -46,7 +46,7 @@ Dealing damage removes that much Life from the target.
 
 **Kill Challenge**: Deadly  
 -- 3-4: 1 damage, Bad outcome  
--- 5-6 = 2 damage, Favorable outcome
+-- 5-6: 2 damage, Favorable outcome
 
 ## Items
 
