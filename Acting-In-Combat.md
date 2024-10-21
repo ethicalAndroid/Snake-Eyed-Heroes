@@ -1,4 +1,9 @@
-# Acting
+# Combat
+
+Combat begins whenever villains start to attack the heroes.  
+When the attacking stops, the combat stops as well.
+
+## Player Actions
 
 Each player has a turn to act.  
 Use your turn and choose one:
@@ -18,16 +23,16 @@ You cannot choose the same Villain Action multiple times in the same round.
 
 Choose two:
 
-- Force all character that are in Bad situations to roll **Survive** twice.
+- Force all characters that are in Bad situations to roll to **Survive** twice.
 - Move some villains towards the heroes.
 - Cut to a villain that is currently off screen.
-- Force a character into a Bad situation.
+- Force one character into a Bad situation.
 
 **Survive Challenge**: Dangerous | Rating 5 | Escape Outcome
 
 ## Bad and Worse Situations
 
-If you are in a Bad situation, and you get a Bad outcome, then you are now in a Worse situation.  
+If you are in a Bad situation, and you get a Bad-situation outcome again, then you are now in a Worse situation.  
 A Worse situation is technically still a Bad situation, it's just worse.  
 When rolling to Survive when in a **Worse** situation, then you must **roll 3 times**.  
 For each additional Bad situation, then you add +1 to the Worse.  
@@ -37,3 +42,14 @@ When you roll to Survive,you escape the situation if you succeed even once.
 If a non-Escape outcome helps you when in a Worse situation, you are now in a Bad situation.  
 If a non-Escape outcome helps you when in a Bad situation, you are no longer in a Bad situation.  
 When a danger is resolved, then all Bad and Worse situations from that danger ends.
+
+## Villain Enemies
+
+Just like heroes, enemies have Life.  
+Enemies die once they have no Life left.  
+The amount of Life that each enemy has is related to its type.
+
+- Minions and tiny enemies have 1 Life.
+- Smart or strong enemies have 2 Life.
+- Brutes and specialists have 3 Life.
+- The Final Villain has 4 Life.

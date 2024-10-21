@@ -9,6 +9,6 @@ It is a very loose game that deals with Challenges and Outcomes.
 
 ## [Find out how to roll dice to complete Challenges.](Rolling-Dice.md)
 
-## [Understand how the game plays.](Playing-the-Game.md)
+## [Understand how combat works.](Acting-In-Combat.md)
 
 ## [Read about how a story progresses in the game.](Story-Moments.md)

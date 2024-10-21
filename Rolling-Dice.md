@@ -36,9 +36,17 @@ Ratings are based on Difficulty:
 ## Rolling to Kill
 
 If you are trying to kill something, then you must roll the very specific **Kill** challenge.  
-This is the only challenge that is always Deadly.
+This is the only challenge that is always Deadly.  
+Rolling to Kill is a Tiered Challenge, with 2 successful outcomes.
 
-**Kill Challenge**: Deadly | Rating 5 | Victorious Outcome
+Rolling a 3-4 will deal 1 damage to the target, but it will place you in a Bad situation.  
+Rolling a 5-6 will deal 2 damage to the target, and it will lead to a Favorable outcome.
+
+Dealing damage removes that much Life from the target.
+
+**Kill Challenge**: Deadly  
+-- 3-4: 1 damage, Bad outcome  
+-- 5-6 = 2 damage, Favorable outcome
 
 ## Items
 

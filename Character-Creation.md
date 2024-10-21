@@ -14,8 +14,9 @@ Create each Hero by deciding on:
 ### Traits
 
 A Trait is a word that describes the character.  
-When you play the character, use their Traits to decide on how they act.  
-For example:
+When you play the character, use their Traits to decide on how they act.
+
+Example traits:
 
 - Tall and Strong
 - Small and Quiet
@@ -26,8 +27,13 @@ For example:
 
 A Tool is a special Item that can be used several times.  
 Only the Tool's owner can use it as a Tool, otherwise it is an Item.  
-After a Challenge using a Tool lands on a 1, then the Tool stops working, as a regular item would.  
-For example:
+After a Challenge using a Tool lands on a 1, then the Tool stops working, as a regular item would.
+
+When using a Tool for a regular challenge, the highest Difficulty rating it can be is 4.  
+You can try outrageous challenges with your Tool, and still use that rating of 4.  
+This ability does not apply for rolling to **Kill** or to **Survive**.
+
+Example tools:
 
 - A garden rake
 - A long spear
@@ -39,13 +45,18 @@ For example:
 A Talent is a custom Challenge that the character can use.  
 Challenges using Talents always have a Difficulty rating of 3.  
 Choose what the challenge is, and the Outcome.  
-The Danger level is set in the moment, depending on circumstance.  
-You cannot roll **Kill** or **Survive** using a Talent.  
-For example:
+The Danger level is set in the moment, depending on circumstance.
+
+You cannot roll to **Kill** or to **Survive** using a Talent.
+
+Example talents:
 
 - Charm someone: Friendly Outcome
 - Pick a lock: Helpful Outcome
 - Climb a Wall: Sneaky Outcome
+- Burn something: Destructive Outcome
+
+### Life
 
 Each Hero has 2 Life.  
 When a Hero has no Life left, they die.
