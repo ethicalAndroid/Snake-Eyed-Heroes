@@ -2,7 +2,7 @@
 
 In this game, every story has 3 acts.  
 Each act has a theme, with the third act ending the game.  
-After the end of act 1 and act 2, if a player has 0 characters left, another player can lend them 1 of their own characters.
+After the end of act 1 and act 2, if a player has no characters left, another player can lend them 1 of their own characters.
 
 After the final act, the surviving characters level up and become real heroes!  
 They survived, and that should be celebrated!  
@@ -20,7 +20,8 @@ Characters can Level up to 3rd Level.
 
 When a Death happens, then a character can try to be a Hero.  
 When a character tries to be a Hero, then their next Challenge has its Difficulty rating set to 3.  
-This heroism even applies rolling to **Kill**.
+This works with all Challenges, even specific ones.  
+When using heroism for Tiered Challenges like rolling to **Kill**, the higher tier's rating is set to 3.
 
 ## Villainous Death
 

@@ -5,7 +5,7 @@ Specifically, for each Challenge, roll a 6-sided die.
 
 ## Danger
 
-Challenges have an Danger level, a Challenge rating, and an Outcome.  
+Challenges have a Danger level, a Challenge rating, and an Outcome.  
 The Danger level is either:
 
 - Low Stakes: No penalty

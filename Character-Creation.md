@@ -14,7 +14,7 @@ Create each Hero by deciding on:
 ### Traits
 
 A Trait is a word that describes the character.  
-When you play the character, use their Traits to decide on how they act.
+When you play the character, use their Traits to decide how they act and what they can do.
 
 Example traits:
 
@@ -31,7 +31,7 @@ After a Challenge using a Tool lands on a 1, then the Tool stops working, as a r
 
 When using a Tool for a regular challenge, the highest Difficulty rating it can be is 4.  
 You can try outrageous challenges with your Tool, and still use that rating of 4.  
-This ability does not apply for rolling to **Kill** or to **Survive**.
+This ability does not apply to rolling to **Kill** or to **Survive**.
 
 Example tools:
 
@@ -45,7 +45,7 @@ Example tools:
 A Talent is a custom Challenge that the character can use.  
 Challenges using Talents always have a Difficulty rating of 3.  
 Choose what the challenge is, and the Outcome.  
-The Danger level is set in the moment, depending on circumstance.
+The Danger level depends on circumstance, just like normal challenges.
 
 You cannot roll to **Kill** or to **Survive** using a Talent.
 
